@@ -2,7 +2,7 @@
 
 * w3schools.com template is used for lazy load test
 
-* index.html - basic
+* index.html - original file without lazy load technique
 
 * index-img-loading-lazy-html.html - adding loading="lazy" attribute on <img> tag
 
