@@ -1,7 +1,7 @@
 # Lazy Load
 
-* w3schools.com template is used for lazy load test
-[Architect Template](https://www.w3schools.com/w3css/w3css_templates.asp)
+* w3schools.com template, [Architect Template](https://www.w3schools.com/w3css/w3css_templates.asp), is used for lazy load test
+
 
 * index.html - original file without lazy load technique
 
